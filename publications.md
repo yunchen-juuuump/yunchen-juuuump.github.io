@@ -4,38 +4,42 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 20th Oct 2023&nbsp; 
+ <!-- [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/) -->
 
 ## Conference Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+- [GadgetSpinner: A New Loop Stream Detector-Based Transient Execution Primitive]()<br>**Y. Chen**, A. Hajiabadi, and T. E. Carlson<br>International Symposium on High-Performance Computer Architecture (HPCA)<br>, 2024.<br>
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+- [PrefetchX: Cross-Core Cache-Agnostic Prefetcher-Based Side-Channel Attacks]()<br>**Y. Chen**, A. Hajiabadi, L. Pei, and T. E. Carlson<br>International Symposium on High-Performance Computer Architecture (HPCA)<br>, 2024.<br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- [AfterImage: Leaking Control Flow Data and Tracking Load Operations via the Hardware Prefetcher](https://www.comp.nus.edu.sg/~tcarlson/pdfs/chen2023lcfivthp.pdf)<br>**Y. Chen**, L. Pei, and T. E. Carlson<br>International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)<br>, 2023.<br>
+
+- [Optimal Attack Path Generation Based on Supervised Kohonen Neural Network](https://link.springer.com/chapter/10.1007/978-3-319-64701-2_29)<br>**Y. Chen**, K. Lv, and C. Hu<br>International Conference on Network and System Security (NSS)<br>, 2017.<br>
 
   <br>
 
 ## Journal Paper
 
-- Coming soon... 🚀
+- [Dynamic defense strategy against advanced persistent threat under heterogeneous networks](https://www.sciencedirect.com/science/article/abs/pii/S1566253518303774)<br>K. Lv, **Y. Chen (Corresponding Author)**, and C. Hu<br>Information Fusion (INF), Impact Factor = 18.6<br>, 2019.<br>
 
+- [DEPLEST: A blockchain-based privacy-preserving distributed database toward user behaviors in social networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025519305250)<br>**Y. Chen**, K. Lv, and C. Hu<br>Information Sciences (INS), Impact Factor = 8.1<br>, 2019.<br>
+
+- [A dynamic hidden forwarding path planning method based on improved Q-learning in SDN environments](https://www.hindawi.com/journals/scn/2018/2058429/)<br>**Y. Chen**, K. Lv, and C. Hu<br>Security and Communication Networks (SCN), Impact Factor = 1.98<br>, 2018.<br>
   <br>
 
-## Working Manuscript
+## Work-in-Progress
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+- [Mitigating Power Attacks Through Fine-Grained Instruction Reordering](https://arxiv.org/abs/2107.11336)<br>**Y. Chen**, A. Hajiabadi, R. Poussier, Y. Tavva, A. Diavastos, S. Bhasin, and T. E. Carlson<br>Under Review<br>, 2023.<br>
 
   <br>
 
 ---
 
-## Undergraduate Thesis
+<!-- ## Undergraduate Thesis
 
 - Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br> -->
 
   <br>
