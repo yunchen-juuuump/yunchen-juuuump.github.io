@@ -6,9 +6,7 @@ layout: page
 
 <!-- <img src="https://yunchen.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Yun Chen (陈韵)**.
-
-Yun Chen is a fourth-year Ph.D. student majoring in **School of Computing** at National University of Singapore, advised by [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). He is experienced with CPU microarchitecture design, power-/performance-efficient hardware design, side-channel attacks exploration on modern CPUs, and Trusted Execution Environment (TEE). 
+**Yun Chen (陈韵)** is a fourth-year Ph.D. student majoring in **School of Computing** at National University of Singapore, advised by [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). He is experienced with CPU microarchitecture design, power-/performance-efficient hardware design, side-channel attacks exploration on modern CPUs, and Trusted Execution Environment (TEE). 
 
 <!-- I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
 
