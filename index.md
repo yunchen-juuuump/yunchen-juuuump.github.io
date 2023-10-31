@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="https://yunchen.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
+<!-- <img src="https://yunchen-juuump.github.io/yun.jpg" class="floatpic" width="360" height="480"> -->
 
 **Yun Chen (陈韵)** is a fourth-year Ph.D. candidate advised by [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/) in the **School of Computing** at National University of Singapore. He is experienced with CPU microarchitecture design, power-/performance-efficient hardware design, side-channel attack exploration on modern CPUs, and Trusted Execution Environment (TEE). 
 
