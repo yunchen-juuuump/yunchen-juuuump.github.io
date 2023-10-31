@@ -1,5 +1,5 @@
 title: Yun Chen
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://yunchen-juuuump.github.io/
@@ -7,7 +7,7 @@ url: https://yunchen-juuuump.github.io/
 # Owner/author information
 owner:
   name: Yun Chen
-  # avatar: yun.jpg
+  avatar: yun.png
  # bio:
   email: yun.chen@u.nus.edu
   cv: https://yunchen-juuuump.github.io/file/CV_Yun_Chen.pdf
