@@ -9,6 +9,8 @@ title: Publications
 
 ## Conference Paper
 
+- [Prime+Reset: Introducing A Novel Cross-World Covert-Channel Through Comprehensive Security Analysis on ARM TrustZone]()<br>**Y. Chen**, A. Pashrashid, Y. Wu, and T. E. Carlson<br>Design, Automation and Test in Europe Conference (DATE)<br>2024.<br>
+
 - [GadgetSpinner: A New Loop Stream Detector-Based Transient Execution Primitive]()<br>**Y. Chen**, A. Hajiabadi, and T. E. Carlson<br>International Symposium on High-Performance Computer Architecture (HPCA)<br>2024.<br>
 
 - [PrefetchX: Cross-Core Cache-Agnostic Prefetcher-Based Side-Channel Attacks]()<br>**Y. Chen**, A. Hajiabadi, L. Pei, and T. E. Carlson<br>International Symposium on High-Performance Computer Architecture (HPCA)<br>2024.<br>
