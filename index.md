@@ -41,10 +41,11 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
+- **Nov 2023：**<font color='red'>One paper about side-channel detection on Arm TrustZone is accepted by DATE 2024!</font>
 - **Oct 2023：**<font color='red'>Two papers about side-channel attacks on Intel CPUs are accepted by HPCA 2024!</font>
-- **Oct 2023：**Happy to be awarded the NUS Incentive Award.
-- **Aug 2023：**Happy to be awarded the NUS Research Achievement Award.
-- **Feb 2023：**Happy to be awarded the ASPLOS Travel Grant.
+- **Oct 2023：**Awarded the NUS Incentive Award.
+- **Aug 2023：**Awarded the NUS Research Achievement Award.
+- **Feb 2023：**Awarded the ASPLOS Travel Grant.
 - **Aug 2022：**One paper about side-channel attack on Intel CPUs is accepted by ASPLOS 2023!
 
 <br>
