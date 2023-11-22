@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font>  I am actively looking for a tenure-track assitant professor position or research scientist in the area of CPU Microarchitecture and Hardware Security for the upcoming 2024 hiring cycle. If you are interested in my research, please feel free to contact me at - *yun[dot]chen[at]u[dot]nus[dot]edu***
+**<font color='red'>[Highlight]</font>  I am actively looking for a tenure-track assistant professor position or research scientist in the area of CPU Microarchitecture and Hardware Security for the upcoming 2024 hiring cycle. If you are interested in my research, please feel free to contact me at - *yun[dot]chen[at]u[dot]nus[dot]edu***
 
 <!-- - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - June 2024:** Maynooth University (BSc)
