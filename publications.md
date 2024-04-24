@@ -9,11 +9,11 @@ title: Publications
 
 ## Conference Paper
 
-- [Prime+Reset: Introducing A Novel Cross-World Covert-Channel Through Comprehensive Security Analysis on ARM TrustZone]()<br>**Y. Chen**, A. Pashrashid, Y. Wu, and T. E. Carlson<br>Design, Automation and Test in Europe Conference (DATE)<br>2024.<br>
+- [Prime+Reset: Introducing A Novel Cross-World Covert-Channel Through Comprehensive Security Analysis on ARM TrustZone](https://www.comp.nus.edu.sg/~tcarlson/pdfs/chen2024piancctcsaoat.pdf)<br>**Y. Chen**, A. Pashrashid, Y. Wu, and T. E. Carlson<br>Design, Automation and Test in Europe Conference (DATE)<br>2024.<br>
 
-- [GadgetSpinner: A New Loop Stream Detector-Based Transient Execution Primitive]()<br>**Y. Chen**, A. Hajiabadi, and T. E. Carlson<br>International Symposium on High-Performance Computer Architecture (HPCA)<br>2024.<br>
+- [GadgetSpinner: A New Loop Stream Detector-Based Transient Execution Primitive](https://www.comp.nus.edu.sg/~tcarlson/pdfs/chen2024gantepvtlsd.pdf)<br>**Y. Chen**, A. Hajiabadi, and T. E. Carlson<br>International Symposium on High-Performance Computer Architecture (HPCA)<br>2024.<br>
 
-- [PrefetchX: Cross-Core Cache-Agnostic Prefetcher-Based Side-Channel Attacks]()<br>**Y. Chen**, A. Hajiabadi, L. Pei, and T. E. Carlson<br>International Symposium on High-Performance Computer Architecture (HPCA)<br>2024.<br>
+- [PrefetchX: Cross-Core Cache-Agnostic Prefetcher-Based Side-Channel Attacks](https://www.comp.nus.edu.sg/~tcarlson/pdfs/chen2024nccapsac.pdf)<br>**Y. Chen**, A. Hajiabadi, L. Pei, and T. E. Carlson<br>International Symposium on High-Performance Computer Architecture (HPCA)<br>2024.<br>
 
 - [AfterImage: Leaking Control Flow Data and Tracking Load Operations via the Hardware Prefetcher](https://www.comp.nus.edu.sg/~tcarlson/pdfs/chen2023lcfivthp.pdf)<br>**Y. Chen**, L. Pei, and T. E. Carlson<br>International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)<br>2023.<br>
 
