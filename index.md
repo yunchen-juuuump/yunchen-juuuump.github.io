@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
-## Academic Background
+<!-- ## Academic Background -->
 
 **<font color='red'>[Highlight]</font> I have multiple PhD/RA openings in 2024 Fall/2025 Spring/2025 Fall, working on high-performance CPU/GPU architecture, hardware side-channel attacks and mitigations, trusted computing, and LLM for hardware security. If you are interested in joining my group, please feel free to contact me (attach your CV, Transcripts, and any other materials) at - *yun[dot]chen[at]u[dot]nus[dot]edu***
 
