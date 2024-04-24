@@ -6,7 +6,7 @@ layout: page
 
 <!-- <img src="https://yunchen-juuump.github.io/yun.jpg" class="floatpic" width="360" height="480"> -->
 
-**Yun Chen (陈韵)** is a fourth-year Ph.D. candidate advised by [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/) in the **School of Computing** at National University of Singapore. He is experienced with CPU microarchitecture design, power-/performance-efficient hardware design, side-channel attack exploration on modern CPUs, and Trusted Execution Environment (TEE). 
+**Yun Chen (陈韵)** is a final-year Ph.D. candidate advised by [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/) in the **School of Computing** at National University of Singapore. He is experienced with CPU microarchitecture design, power-/performance-efficient hardware design, side-channel attack exploration on modern CPUs, and Trusted Execution Environment (TEE). He will be joining [Microelectronics Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/function-hub/microelectronics/) at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as an Assistant Professor in September 2024.
 
 <!-- I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
 
@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font>  I am actively looking for a tenure-track assistant professor position or research scientist in the area of CPU Microarchitecture and Hardware Security for the upcoming 2024 hiring cycle. If you are interested in my research, please feel free to contact me at - *yun[dot]chen[at]u[dot]nus[dot]edu***
+**<font color='red'>[Highlight]</font> I have multiple PhD/RA openings in 2024 Fall/2025 Spring/2025 Fall, working on high-performance CPU/GPU architecture, hardware side-channel attacks and mitigations, trusted computing, and LLM for hardware security. If you are interested in joining my group, please feel free to contact me (attach your CV, Transcripts, and any other materials) at - *yun[dot]chen[at]u[dot]nus[dot]edu***
 
 <!-- - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - June 2024:** Maynooth University (BSc)

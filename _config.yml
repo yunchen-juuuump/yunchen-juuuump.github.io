@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "kV9Rfb3RDEj-WxeraXUJs1J9AycU39ekUB9J79BGQnE"
+google_verify: "google-site-verification=kV9Rfb3RDEj-WxeraXUJs1J9AycU39ekUB9J79BGQnE"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
