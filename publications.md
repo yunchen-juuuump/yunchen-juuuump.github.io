@@ -34,9 +34,9 @@ title: Publications
 
 - [Mitigating Power Attacks Through Fine-Grained Instruction Reordering](https://arxiv.org/abs/2107.11336)<br>**Y. Chen**, A. Hajiabadi, R. Poussier, Y. Tavva, A. Diavastos, S. Bhasin, and T. E. Carlson<br>Under Review<br>2023.<br>
 
-- [Unveiling Hopper Microarchitecture: From the DSM Scheduler to the GPU Topology]()<br>**Y. Chen**, Changxi Liu, and T. E. Carlson<br>Under Review<br>2024.<br>
+<!-- - [Unveiling Hopper Microarchitecture: From the DSM Scheduler to the GPU Topology]()<br>**Y. Chen**, Changxi Liu, and T. E. Carlson<br>Under Review<br>2024.<br>
 
-- [ForTee: An Efficient TEE Architecture Against PMU-Based Side-Channel Attacks]()<br>**Y. Chen**, A. Pashrashid, Y. Wu, and T. E. Carlson<br>Under Review<br>2024.<br>
+- [ForTee: An Efficient TEE Architecture Against PMU-Based Side-Channel Attacks]()<br>**Y. Chen**, A. Pashrashid, Y. Wu, and T. E. Carlson<br>Under Review<br>2024.<br> -->
 
   <br>
 
