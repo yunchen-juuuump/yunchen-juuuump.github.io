@@ -6,7 +6,7 @@ layout: page
 
 <!-- <img src="https://yunchen-juuump.github.io/yun.jpg" class="floatpic" width="360" height="480"> -->
 
-**Yun Chen (陈韵)** is an assistant professor at  [Microelectronics Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/function-hub/microelectronics/), the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/. He received the PhD from National University of Singapore, advised by [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). He is experienced with CPU/GPU microarchitecture design, efficient hardware architecture, side-channel attacks, and trusted execution environment (TEE). 
+**Yun Chen (陈韵)** is an assistant professor at  [Microelectronics Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/function-hub/microelectronics/), the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/. He received his PhD from National University of Singapore, advised by [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). He is experienced with CPU/GPU microarchitecture design, efficient hardware architecture, side-channel attacks, and trusted execution environment (TEE). 
 <!-- I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org* -->
